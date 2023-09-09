@@ -1,0 +1,6 @@
+5
+Detroit     49 86  7   0 4 0 0 3
+Baltimore   71 63 16   4 0 2 7 3
+Boston      69 66 10   0 2 0 0 8
+Toronto     63 72 14   0 7 0 0 7
+New_York    75 59 21   3 3 8 7 0
